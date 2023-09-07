@@ -22,7 +22,7 @@ def get_information():
         'current_day': datetime.utcnow().strftime('%A'),
         'utc_time': datetime.utcnow().strftime('%Y-%m-%dT%H:%M:&SZ'),
         'track': track,
-        'github_file_url': 'u',
+        'github_file_url': 'https://github.com/Chiemelie10/hng_api_endpoint/blob/main/app.py',
         'github_repo_url': 'https://github.com/Chiemelie10/hng_api_endpoint',
         'status_code': 200
     }
